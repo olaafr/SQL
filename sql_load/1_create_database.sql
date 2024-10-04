@@ -1,0 +1,3 @@
+CREATE DATABASE sql_p2_leads;
+
+-- DROP DATABASE IF EXISTS sql_course;
